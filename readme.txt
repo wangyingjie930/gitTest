@@ -1,1 +1,2 @@
 readme
+fix with stash
