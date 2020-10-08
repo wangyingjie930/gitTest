@@ -9,3 +9,6 @@ revertsvnsnv
 change master
 
 change master again
+
+
+local normal git pull
