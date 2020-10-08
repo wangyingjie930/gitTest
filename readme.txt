@@ -7,12 +7,3 @@ revertsvnsnv
 
 rebase
 
-<<<<<<< HEAD
-
-change on  master
-=======
-change on develop
->>>>>>> change on dev
-
-
-mer dev
